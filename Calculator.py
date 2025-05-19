@@ -15,4 +15,4 @@ elif operator=="/":
   ans=num1/num2
   print(ans)
 else:
-  print("fucking idiot wrong operator")
+  print(" wrong operator")
